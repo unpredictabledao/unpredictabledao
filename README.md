@@ -48,4 +48,4 @@ npx hardhat test
 
 ## For DAO participants
 
-You can run a bot to particpate automatically (addressed here: https://github.com/undao/undao/blob/main/auto-participate.md).
+You can run a bot to particpate automatically (addressed here: https://github.com/unpredictabledao/unpredictabledao/blob/main/auto-participate.md).
