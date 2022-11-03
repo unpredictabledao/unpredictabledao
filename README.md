@@ -52,14 +52,3 @@ npx hardhat run --network localhost scripts/deploy.js
 npx hardhat test
 ```
 
-
-## App
-
-To run the dapp, open your terminal and insert this in:
-
-```
-npm install -g live-server
-live-server
-```
-
-Go to config.js if you need to change contract addresses and ABIs.
